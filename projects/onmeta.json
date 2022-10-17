@@ -1,0 +1,18 @@
+{
+    "name": "Onmeta",
+    "slug": "onmeta",
+    "date": "2022-10-17",
+    "highlight": "Quickest On/Off Ramp Solution, allowing any token purchase with fiat currencies",
+    "logo": "/img/onmeta.png",
+    "tags": ["fiat ramp","payments","infrastructure","multi-chain"],
+    "status": "live",
+    "website": "https://onmeta.in/",
+    "twitter": "https://twitter.com/onmetahq",
+    "summary": "Onmeta provides world's quickest on and off ramp solutions to web3 dapps to help them improve their user experience and accelerate their adoption by mainstream users. Onmeta aims to become a fully interoperable solution which supports all major fiat currencies as well as all tokens across all major blockchains.",
+    "telegram": "https://t.me/+OYrt8BOeMiIyNzU1",
+    "discord": "https://discord.gg/FEHvE6wmvk",
+    "docs":"https://scarce-actor-907.notion.site/Onmeta-Merchant-Onboarding-sandbox-version-990e5319b6504d62b7c205988c486b18",
+    "github":"",
+    "token":"AVAX",
+    "cmc":""
+  }
